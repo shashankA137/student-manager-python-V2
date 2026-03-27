@@ -21,7 +21,7 @@ Technologies Used
 
 Project Structure
 
-student-management-system.v2/
+student-manager-python-V2
 │  
 ├── main.py  
 ├── students.json  
