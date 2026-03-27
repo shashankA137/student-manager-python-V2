@@ -28,15 +28,15 @@ student-management-system.v2/
 ├── README.md  
 └── .gitignore  
 
-How to Run
+## How to Run
 
 1. Clone repository
 
-git clone https://github.com/your-username/student-management-system.git
+git clone https://github.com/shashankA137/student-manager-python-V2.git
 
 2. Navigate to project
 
-cd student-management-system
+cd student-manager-python-V2
 
 3. Run program
 
